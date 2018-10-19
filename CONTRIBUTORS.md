@@ -13,7 +13,7 @@
 #### Name: [Caleb X Berger](https://github.com/c-x-berger)
 
 - Place: Indiana, USA
-- Bio: Hamster 
+- Bio: Hamster
 - GitHub: [Caleb X Berger](https://github.com/c-x-berger)
 
 #### Name: [Kevin Yang](https://github.com/keyaa)
@@ -42,3 +42,9 @@
 - Place: Massachusetts, USA
 - Bio: Student at LSE
 - GitHub: [Kelsey Cooper](https://github.com/kelseydcooper)
+
+#### Name: [Rashmil Panchani](https://github.com/Rashmil-1999)
+
+- Place: Mumbai, India
+- Bio: Student at Dj Sanghvi College of Engineering(Second Year)
+- GitHub: [![github-alt][github-img]](https://github.com/Rashmil-1999)
